@@ -4,7 +4,7 @@
 {% include fetch_google_scholar_stats.html %}
 
 <script>
-/* 菜单锚点平滑滚动：事件委托到导航容器（点 li/a 均生效），URL 不变，只做页面内平滑滚动 */
+/* 菜单锚点平滑滚动：事件委托到导航容器，URL 不变；手动计算滚动位置并 clamp 到页面可滚动范围 */
 (function () {
   var nav = document.getElementById('site-nav');
   if (!nav) return;
@@ -13,7 +13,11 @@
     if (!a) return;
     e.preventDefault();
     var target = document.getElementById(a.getAttribute('href').slice(1));
-    if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    if (!target) return;
+    var top = target.getBoundingClientRect().top + window.scrollY - 90; /* 避开 sticky 顶部栏 */
+    var max = document.documentElement.scrollHeight - window.innerHeight;
+    var y = Math.max(0, Math.min(top, max));
+    window.scrollTo({ top: y, behavior: 'smooth' });
   });
 })();
 </script>
