@@ -2,3 +2,32 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+
+<script>
+/* 中英原地切换：切换 #content-zh / #content-en 显示，不跳转页面 */
+(function () {
+  var zh = document.getElementById('content-zh');
+  var en = document.getElementById('content-en');
+  var toggle = document.getElementById('lang-toggle');
+  if (!zh || !en || !toggle) return;
+
+  var saved = null;
+  try { saved = localStorage.getItem('acad-lang'); } catch (e) {}
+  var lang = saved === 'en' ? 'en' : 'zh';
+
+  function apply(l) {
+    zh.style.display = l === 'zh' ? '' : 'none';
+    en.style.display = l === 'en' ? '' : 'none';
+    toggle.textContent = l === 'zh' ? 'EN' : '中文';
+    document.documentElement.lang = l;
+  }
+  apply(lang);
+
+  toggle.addEventListener('click', function (e) {
+    e.preventDefault();
+    var next = zh.style.display === 'none' ? 'zh' : 'en';
+    apply(next);
+    try { localStorage.setItem('acad-lang', next); } catch (err) {}
+  });
+})();
+</script>

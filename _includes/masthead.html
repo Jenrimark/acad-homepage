@@ -8,11 +8,7 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
           <li class="masthead__menu-item masthead__menu-item--lang">
-            {% if page.url contains '/en' %}
-              <a href="{{ site.baseurl }}/">中文</a>
-            {% else %}
-              <a href="{{ site.baseurl }}/en/">EN</a>
-            {% endif %}
+            <a href="#" id="lang-toggle">EN</a>
           </li>
         </ul>
       </nav>
