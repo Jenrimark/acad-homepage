@@ -8,51 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+我是 **吴汉东**（Jenrimark），计算机软件工程专业，坐标武汉，方向是全栈开发。喜欢把想法做成能用的产品——从前端交互到后端服务、从 Web 应用到桌面端与移动端，习惯端到端地完成一件事。
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+这个主页聚合我的个人项目、开源仓库与实用工具。主页基于 AcadHomepage 模板静态构建，部署于 GitHub Pages。
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.09*: &nbsp;🎉 个人主站（Jenrimark）全新改版上线 — Astro 静态站，聚合作品集与聚合搜索页。
+- *2026.09*: &nbsp;🎉 合租管家（费用分摊/值日排班/囤货登记/室友公约）部署上线。
+- *2026.06*: &nbsp;🎉 个人门户迁移至 GitHub Pages，启用 CI/CD 自动构建部署。
 
-# 📝 Publications 
+# 📝 Projects 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **合租管家** — 费用分摊、值日排班、囤货登记、室友公约，把最容易吵架的几件事变成清清楚楚的小工具（Vite · React · TypeScript）。已部署：[jenrimark.github.io](https://jenrimark.github.io/) · [GitHub](https://github.com/Jenrimark/jenrimark.github.io)
+- **Jenrimark 个人门户** — 当前所在站点：Astro 静态站，聚合个人项目、作品集与知识库，Git push 触发自动部署（Astro · CI/CD）。
+- **Little-Wechat** — 独立完成登录、聊天、好友列表等核心模块；WebSocket 实时通信（延迟 <100ms），Redis 缓存在线状态与聊天数据，数据库查询压力降约 60%，Electron 跨平台桌面端（SpringBoot · Vue3 · WebSocket · Redis）。
+- **Greenhouse-AI** — AI Agent 系统：多 Agent 基建与编排，自动化闭环，构建通过 + 28 项测试覆盖（TypeScript · Agent）。
+- **蝶启新生 · 健康管理** — Vue3 + Go/Gin 全栈，JWT 无状态鉴权；Redis 缓存使查询效率提升约 50%，核心接口由 900ms 降至 400ms；ECharts 多维健康分析，Nginx 反向代理部署（Gin · Vue3 · JWT · GORM）。
+- **灵犀旅行** — AI 旅游平台，独立开发路线推荐与景点展示；百度地图 + ECharts 可视化，Redis 缓存与 MySQL 查询优化，接口响应 300ms 内（SpringBoot · Vue3 · ECharts）。
+- **ChronosForHarmony** — HarmonyOS 应用开发实践，鸿蒙原生能力探索（ArkTS · HarmonyOS）。
+- **tabmark-organizer** — Chrome 扩展：浏览器书签同步整理，支持 AI 优化结构与命名（JavaScript · Chrome 扩展）。
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- TODO: 待补充（如有） -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2027.06*, 计算机软件工程（本科）— 学校待补充
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!-- TODO: 待补充（如有） -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- TODO: 待补充（如有） -->
