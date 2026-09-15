@@ -4,6 +4,21 @@
 {% include fetch_google_scholar_stats.html %}
 
 <script>
+/* 菜单锚点平滑滚动：阻止默认 hash 跳转（URL 不变），只做页面内平滑滚动 */
+(function () {
+  var links = document.querySelectorAll('.masthead__menu-item a[href^="#"]');
+  for (var i = 0; i < links.length; i++) {
+    links[i].addEventListener('click', function (e) {
+      e.preventDefault();
+      var id = this.getAttribute('href').slice(1);
+      var target = document.getElementById(id);
+      if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  }
+})();
+</script>
+
+<script>
 /* 中英原地切换：内容区 + 导航菜单文字/锚点同步切换，带淡入淡出动画 */
 (function () {
   var zh = document.getElementById('content-zh');
