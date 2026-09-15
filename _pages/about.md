@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div id="content-zh">
+<div id="content-zh" markdown="1">
 
 我是 **吴汉东**（Jenrimark），计算机软件工程专业，坐标武汉，方向是全栈开发。喜欢把想法做成能用的产品——从前端交互到后端服务、从 Web 应用到桌面端与移动端，习惯端到端地完成一件事。
 
@@ -46,7 +46,7 @@ redirect_from:
 
 </div>
 
-<div id="content-en" style="display:none">
+<div id="content-en" style="display:none" markdown="1">
 
 I'm **WU Handong** (Jenrimark), majoring in Computer Software Engineering, based in Wuhan, China. My focus is full-stack development — from frontend interactions to backend services, from web apps to desktop and mobile clients, I enjoy building things end-to-end.
 
