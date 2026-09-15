@@ -1,23 +1,23 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "#about-me"
     zh: "关于我"
 
   - title: "News"
-    url: "/#news-zh"
+    url: "#news-zh"
     zh: "新闻动态"
-    zh_href: "/#news-zh"
-    en_href: "/#news-en"
+    zh_href: "#news-zh"
+    en_href: "#news-en"
 
   - title: "Projects"
-    url: "/#projects-zh"
+    url: "#projects-zh"
     zh: "项目作品"
-    zh_href: "/#projects-zh"
-    en_href: "/#projects-en"
+    zh_href: "#projects-zh"
+    en_href: "#projects-en"
 
   - title: "Educations"
-    url: "/#educations-zh"
+    url: "#educations-zh"
     zh: "教育经历"
-    zh_href: "/#educations-zh"
-    en_href: "/#educations-en"
+    zh_href: "#educations-zh"
+    en_href: "#educations-en"
