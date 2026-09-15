@@ -16,12 +16,12 @@ redirect_from:
 
 这个主页聚合我的个人项目、开源仓库与实用工具。主页基于 AcadHomepage 模板静态构建，部署于 GitHub Pages。
 
-# 🔥 News
+# 🔥 News {#news-zh}
 - *2026.09*: &nbsp;🎉 个人主站（Jenrimark）全新改版上线 — Astro 静态站，聚合作品集与聚合搜索页。
 - *2026.09*: &nbsp;🎉 合租管家（费用分摊/值日排班/囤货登记/室友公约）部署上线。
 - *2026.06*: &nbsp;🎉 个人门户迁移至 GitHub Pages，启用 CI/CD 自动构建部署。
 
-# 📝 Projects 
+# 📝 Projects {#projects-zh} 
 
 - **合租管家** — 费用分摊、值日排班、囤货登记、室友公约，把最容易吵架的几件事变成清清楚楚的小工具（Vite · React · TypeScript）。已部署：[jenrimark.github.io](https://jenrimark.github.io/) · [GitHub](https://github.com/Jenrimark/jenrimark.github.io)
 - **Jenrimark 个人门户** — 当前所在站点：Astro 静态站，聚合个人项目、作品集与知识库，Git push 触发自动部署（Astro · CI/CD）。
@@ -32,17 +32,8 @@ redirect_from:
 - **ChronosForHarmony** — HarmonyOS 应用开发实践，鸿蒙原生能力探索（ArkTS · HarmonyOS）。
 - **tabmark-organizer** — Chrome 扩展：浏览器书签同步整理，支持 AI 优化结构与命名（JavaScript · Chrome 扩展）。
 
-# 🎖 Honors and Awards
-<!-- TODO: 待补充（如有） -->
-
-# 📖 Educations
+# 📖 Educations {#educations-zh}
 - *2023.09 - 2027.06*, 计算机软件工程（本科）— 学校待补充
-
-# 💬 Invited Talks
-<!-- TODO: 待补充（如有） -->
-
-# 💻 Internships
-<!-- TODO: 待补充（如有） -->
 
 </div>
 
@@ -52,12 +43,12 @@ I'm **WU Handong** (Jenrimark), majoring in Computer Software Engineering, based
 
 This homepage aggregates my personal projects, open-source repositories, and practical tools. It is statically built with the AcadHomepage template and hosted on GitHub Pages.
 
-# 🔥 News
+# 🔥 News {#news-en}
 - *2026.09*: &nbsp;🎉 Personal portal (Jenrimark) redesigned and launched — Astro static site aggregating portfolio and search hub.
 - *2026.09*: &nbsp;🎉 Housemate (expense split / duty roster / stock registration / roommate rules) deployed.
 - *2026.06*: &nbsp;🎉 Personal portal migrated to GitHub Pages with CI/CD auto-build deployment.
 
-# 📝 Projects 
+# 📝 Projects {#projects-en} 
 
 - **Housemate** — Expense splitting, duty scheduling, shared-stock registration, and roommate rules: turning the easiest-to-quarrel-over things into clear, simple tools (Vite · React · TypeScript). Deployed: [jenrimark.github.io](https://jenrimark.github.io/) · [GitHub](https://github.com/Jenrimark/jenrimark.github.io)
 - **Jenrimark Portal** — The site you're on: Astro static site aggregating personal projects, portfolio, and knowledge base, auto-deployed on git push (Astro · CI/CD).
@@ -68,16 +59,7 @@ This homepage aggregates my personal projects, open-source repositories, and pra
 - **ChronosForHarmony** — HarmonyOS app development practice, exploring native HarmonyOS capabilities (ArkTS · HarmonyOS).
 - **tabmark-organizer** — Chrome extension: browser bookmark sync and organization, with AI-optimized structure and naming (JavaScript · Chrome extension).
 
-# 🎖 Honors and Awards
-<!-- TODO: to be added (if any) -->
-
-# 📖 Educations
+# 📖 Educations {#educations-en}
 - *2023.09 - 2027.06*, Computer Software Engineering (Bachelor) — university TBD
-
-# 💬 Invited Talks
-<!-- TODO: to be added (if any) -->
-
-# 💻 Internships
-<!-- TODO: to be added (if any) -->
 
 </div>

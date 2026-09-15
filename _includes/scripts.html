@@ -4,7 +4,7 @@
 {% include fetch_google_scholar_stats.html %}
 
 <script>
-/* 中英原地切换：切换 #content-zh / #content-en 显示，不跳转页面 */
+/* 中英原地切换：内容区 + 导航菜单文字/锚点同步切换，不跳转页面 */
 (function () {
   var zh = document.getElementById('content-zh');
   var en = document.getElementById('content-en');
@@ -20,6 +20,18 @@
     en.style.display = l === 'en' ? '' : 'none';
     toggle.textContent = l === 'zh' ? 'EN' : '中文';
     document.documentElement.lang = l;
+    /* 同步导航菜单：文字与锚点随语言切换 */
+    var links = document.querySelectorAll('.masthead__menu-item a');
+    for (var i = 0; i < links.length; i++) {
+      var a = links[i];
+      if (a.id === 'lang-toggle') continue;
+      var zhT = a.getAttribute('data-zh');
+      var enT = a.getAttribute('data-en');
+      if (zhT || enT) a.textContent = l === 'zh' ? zhT : enT;
+      var zhH = a.getAttribute('data-zh-href');
+      var enH = a.getAttribute('data-en-href');
+      if (zhH && enH) a.setAttribute('href', l === 'zh' ? zhH : enH);
+    }
   }
   apply(lang);
 
