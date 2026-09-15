@@ -4,7 +4,7 @@
 {% include fetch_google_scholar_stats.html %}
 
 <script>
-/* 中英原地切换：内容区 + 导航菜单文字/锚点同步切换，不跳转页面 */
+/* 中英原地切换：内容区 + 导航菜单文字/锚点同步切换，带淡入淡出动画 */
 (function () {
   var zh = document.getElementById('content-zh');
   var en = document.getElementById('content-en');
@@ -15,12 +15,7 @@
   try { saved = localStorage.getItem('acad-lang'); } catch (e) {}
   var lang = saved === 'en' ? 'en' : 'zh';
 
-  function apply(l) {
-    zh.style.display = l === 'zh' ? '' : 'none';
-    en.style.display = l === 'en' ? '' : 'none';
-    toggle.textContent = l === 'zh' ? 'EN' : '中文';
-    document.documentElement.lang = l;
-    /* 同步导航菜单：文字与锚点随语言切换 */
+  function syncNav(l) {
     var links = document.querySelectorAll('.masthead__menu-item a');
     for (var i = 0; i < links.length; i++) {
       var a = links[i];
@@ -33,12 +28,45 @@
       if (zhH && enH) a.setAttribute('href', l === 'zh' ? zhH : enH);
     }
   }
-  apply(lang);
+
+  function setLang(l) {
+    if (l === 'zh') { zh.style.display = ''; en.style.display = 'none'; }
+    else { en.style.display = ''; zh.style.display = 'none'; }
+    toggle.textContent = l === 'zh' ? 'EN' : '中文';
+    document.documentElement.lang = l;
+    syncNav(l);
+  }
+
+  /* 带淡入淡出的平滑切换 */
+  function switchLang(next) {
+    var show = next === 'zh' ? zh : en;
+    var hide = next === 'zh' ? en : zh;
+    toggle.textContent = next === 'zh' ? 'EN' : '中文';
+    document.documentElement.lang = next;
+    syncNav(next);
+
+    hide.style.transition = 'opacity 0.18s ease, transform 0.18s ease';
+    hide.style.opacity = '0';
+    hide.style.transform = 'translateY(5px)';
+    setTimeout(function () {
+      hide.style.display = 'none';
+      show.style.display = '';
+      show.style.opacity = '0';
+      show.style.transform = 'translateY(5px)';
+      show.style.transition = 'opacity 0.28s ease, transform 0.28s ease';
+      requestAnimationFrame(function () {
+        show.style.opacity = '1';
+        show.style.transform = 'translateY(0)';
+      });
+    }, 180);
+  }
+
+  setLang(lang); /* 首屏直接呈现，无动画 */
 
   toggle.addEventListener('click', function (e) {
     e.preventDefault();
     var next = zh.style.display === 'none' ? 'zh' : 'en';
-    apply(next);
+    switchLang(next);
     try { localStorage.setItem('acad-lang', next); } catch (err) {}
   });
 })();

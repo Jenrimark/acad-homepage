@@ -7,11 +7,11 @@
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" data-zh="{{ link.zh }}" data-en="{{ link.title }}"{% if link.zh_href %} data-zh-href="{{ link.zh_href }}" data-en-href="{{ link.en_href }}"{% endif %}>{{ link.title }}</a></li>
           {% endfor %}
-          <li class="masthead__menu-item masthead__menu-item--lang">
-            <a href="#" id="lang-toggle">EN</a>
-          </li>
         </ul>
       </nav>
+    </div>
+    <div class="lang-switch">
+      <a href="#" id="lang-toggle">EN</a>
     </div>
   </div>
 </div>

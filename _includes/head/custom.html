@@ -33,3 +33,45 @@
   box-shadow: none !important;
 }
 </style>
+<style>
+/* === 菜单居中 + 语言按钮右上角固定 === */
+.masthead__menu {
+  display: flex;
+  justify-content: center;
+}
+.masthead__menu nav.greedy-nav {
+  display: inline-flex;
+  background: transparent;
+  min-width: 0;
+}
+.lang-switch {
+  position: absolute;
+  right: 1.2em;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  z-index: 30;
+}
+.lang-switch a {
+  display: inline-block;
+  padding: 0.3em 0.9em;
+  border: 1px solid #d0d0d0;
+  border-radius: 999px;
+  font-size: 0.85em;
+  color: #333;
+  text-decoration: none;
+  -webkit-transition: all 0.25s ease;
+          transition: all 0.25s ease;
+}
+.lang-switch a:hover {
+  border-color: #999;
+  background: #f5f5f5;
+}
+</style>
+<style>
+/* === 语言切换淡入淡出动画 === */
+.masthead__inner-wrap { position: relative; }
+#content-zh, #content-en {
+  will-change: opacity, transform;
+}
+</style>
