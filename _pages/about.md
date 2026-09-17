@@ -12,7 +12,7 @@ redirect_from:
 
 <div id="content-zh" markdown="1">
 
-我是 **吴汉东**（Jenrimark），中国地质大学（武汉）软件工程本科在读（2023–2027），中共党员，坐标武汉，综合排名专业前 10%。方向是 **AI 产品与全栈开发**——既有小米 B 端中台、美和易思 C 端多模态两段 AI 产品实习，也能独立把项目从前端做到后端、从 Web 做到移动端。工作积极认真，具备良好的工程化意识，擅长把业务问题拆成可落地方案，重视命中率等评测指标。
+我是 **吴汉东 Jenrick Wu**，商业品牌 **Jenrimark 殇璃**，中国地质大学（武汉）软件工程本科在读（2023–2027），中共党员，坐标武汉，综合排名专业前 10%。方向是 **AI 产品与全栈开发**——既有小米 B 端中台、美和易思 C 端多模态两段 AI 产品实习，也能独立把项目从前端做到后端、从 Web 做到移动端。工作积极认真，具备良好的工程化意识，擅长把业务问题拆成可落地方案，重视命中率等评测指标。
 
 这个主页聚合我的教育、实习、项目、竞赛与技能。主页基于 AcadHomepage 模板静态构建，部署于 GitHub Pages。
 
@@ -73,7 +73,7 @@ redirect_from:
 
 <div id="content-en" style="display:none" markdown="1">
 
-I'm **WU Handong** (Jenrimark), a senior undergraduate in Software Engineering at China University of Geosciences (Wuhan, 2023–2027), CPC member, based in Wuhan, top 10% of my major. My focus is AI product management and full-stack development — two AI product internships (Xiaomi B2B platform, Meihe Yisi C-end multimodal) plus the ability to ship projects end-to-end from frontend to backend, web to mobile. I'm rigorous, engineering-minded, and strong at decomposing business problems into deliverable solutions backed by metrics.
+I'm **WU Handong (Jenrick Wu)**, brand **Jenrimark 殇璃**, a senior undergraduate in Software Engineering at China University of Geosciences (Wuhan, 2023–2027), CPC member, based in Wuhan, top 10% of my major. My focus is AI product management and full-stack development — two AI product internships (Xiaomi B2B platform, Meihe Yisi C-end multimodal) plus the ability to ship projects end-to-end from frontend to backend, web to mobile. I'm rigorous, engineering-minded, and strong at decomposing business problems into deliverable solutions backed by metrics.
 
 This homepage aggregates my education, internships, projects, competitions and skills. It is statically built with the AcadHomepage template and hosted on GitHub Pages.
 

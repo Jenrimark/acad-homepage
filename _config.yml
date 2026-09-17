@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "吴汉东 · Jenrimark"
-description              : "吴汉东（Jenrimark）个人学术主页 — 计算机软件工程 · 全栈开发，聚合个人项目、开源仓库与实用工具。"
+title                    : "吴汉东 Jenrick Wu · Jenrimark 殇璃"
+description              : "吴汉东 Jenrick Wu（品牌 Jenrimark 殇璃）个人主页 — AI 产品 · 全栈开发，聚合教育、实习、项目与竞赛。"
 repository               : "Jenrimark/acad-homepage"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "吴汉东 (Jenrimark)"
+  name             : "吴汉东 Jenrick Wu"
   avatar           : "images/avatar.png"
-  bio              : "计算机软件工程 · 全栈开发"
+  bio              : "AI 产品 · 全栈开发 | 品牌 Jenrimark 殇璃"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
