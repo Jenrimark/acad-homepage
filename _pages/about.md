@@ -12,9 +12,9 @@ redirect_from:
 
 <div id="content-zh" markdown="1">
 
-我是 **吴汉东**（Jenrimark），中国地质大学（武汉）计算机软件工程本科在读（2023–2027），坐标武汉，方向是 AI 产品与全栈开发。工作积极认真、细心负责，具备良好的工程化意识，擅长把业务问题拆成可落地的方案，重视命中率等评测指标，习惯端到端地把想法做成能用的产品。
+我是 **吴汉东**（Jenrimark），中国地质大学（武汉）软件工程本科在读（2023–2027），中共党员，坐标武汉，综合排名专业前 10%。方向是 **AI 产品与全栈开发**——既有小米 B 端中台、美和易思 C 端多模态两段 AI 产品实习，也能独立把项目从前端做到后端、从 Web 做到移动端。工作积极认真，具备良好的工程化意识，擅长把业务问题拆成可落地方案，重视命中率等评测指标。
 
-这个主页聚合我的教育背景、实习、项目、竞赛与技能。主页基于 AcadHomepage 模板静态构建，部署于 GitHub Pages。
+这个主页聚合我的教育、实习、项目、竞赛与技能。主页基于 AcadHomepage 模板静态构建，部署于 GitHub Pages。
 
 # 🔥 News {#news-zh}
 - *2026.09*: &nbsp;🎉 个人主站（Jenrimark）全新改版上线 — Astro 静态站，聚合作品集与聚合搜索页。
@@ -22,53 +22,58 @@ redirect_from:
 - *2026.06*: &nbsp;🎉 个人门户迁移至 GitHub Pages，启用 CI/CD 自动构建部署。
 
 # 📖 Educations {#educations-zh}
-- *2023.09 - 2027.06*, **中国地质大学（武汉）** — 计算机软件工程（本科），XXX 学院，全日制，成绩排名前 10%。GPA：XXX。外语等级：XXX（如 CET-6）。
+- *2023.09 - 2027.06*, **中国地质大学（武汉）** — 软件工程（本科），全日制，综合排名专业前 10%。在校担任班长、学院学生会主席、党支部书记；带队获国家级、省级竞赛奖项 10 余项，项目成果累计获批 5 万元科研经费。外语等级：XXX。
 
 # 💼 Internships {#internships-zh}
-- ***XXX（公司） · AI 产品实习生**，*2026.XX - 2026.XX* — 聚焦 B 端跨境电商海外运营场景，完成智能运营助手 MVP 从 0 到 1 落地：统一 15+ 跨境平台风控与采集标准，搭建飞书数据中枢，数据重复率压至 0.5% 以内、准确率稳定超 98%；产品覆盖 6 大区域，巡检与周报人力成本缩减 90%。
-- ***XXX（公司） · AI 产品实习生**，*2026.XX - 2026.XX* — 聚焦 C 端智慧就业赛道，负责多模态 AI 数字人面试产品迭代：梳理 1000+ 校招题库，模型出题准确率 92%；优化 50+ 数字人交互点位，交互响应提速 30%；模型幻觉率压降 65%，用户面试留存率提升 28%。
+- ***小米（武汉） · 国际业务部 系统开发组 · AI 产品实习生（B 端/中台）**，*2026.06 - 2026.09* — 聚焦 B 端跨境电商海外运营场景，完成智能运营助手 MVP 从 0 到 1 落地：梳理巡检、监控、舆情复盘等人工低效场景并筛选高价值 AI 落地点；统一 15+ 跨境平台风控与采集标准，搭建飞书数据中枢，数据重复率压至 0.5% 以内、准确率稳定超 98%；产品覆盖全球 6 大区域，巡检与周报人力成本缩减 90%。
+- ***美和易思（武汉） · 智慧就业 PDT · AI 产品实习生（C 端/多模态）**，*2025.11 - 2026.04* — 聚焦 C 端智慧就业赛道，完成多模态 AI 数字人面试产品 MVP 迭代：调研 2000+ 在校求职学生定位 3 项高需求场景；结构化梳理 1000+ 校招题库，模型出题准确率 92%；优化 50+ 数字人交互点位，交互响应提速 30%；模型幻觉率压降 65%，用户面试留存率提升 28%。
 
 # 🎓 Campus Activities {#campus-zh}
-- *团学组织 · 学风部/办公室管理* — 统筹两大部门，牵头完善内部制度、会议与档案管理体系；组织学风建设系列活动，协调跨部门项目落地，管理学生干事团队，保障学院团学事务高效运转。
-- *学生党支部 · 党务管理* — 主持支部日常党务，组织主题党日、理论学习、党员发展与转正；落实党员培养、谈心谈话、材料归档，推进支部标准化规范化建设。
-- *班级 · 班委* — 统筹班级日常事务，搭建师生沟通桥梁；组织学风建设、主题班会，跟进同学学业与思想情况，带领班级获评多项集体荣誉。
-- *班级 · 宣传/心理委员* — 负责班级宣传物料制作与活动推送；定期摸排同学心理状态，组织心理主题活动，做好心理关怀与信息上报。
+- *2024.09 - 2026.06, 计算机学院 学生会主席 / 部长* — 统筹学风部与办公室两大部门，牵头完善内部制度、会议与档案管理体系；组织学风建设系列活动，协调跨部门项目落地，管理学生干事团队。
+- *2024.09 - 2025.09, 学生党支部 党支部书记* — 主持支部日常党务，组织主题党日、理论学习、党员发展与转正；落实党员培养、谈心谈话、材料归档，推进支部标准化规范化建设。
+- *2023.09 - 2024.09, 软件工程 2301 班 班长* — 统筹班级日常事务，搭建师生沟通桥梁；组织学风建设、主题班会，带领班级获评多项集体荣誉。
+- *2023.09 - 2024.09, 班级 心理与宣传委员* — 负责班级宣传物料制作与活动推送；定期摸排同学心理状态，组织心理主题活动，做好心理关怀与信息上报。
 
 # 📝 Projects {#projects-zh} 
 
-- **Greenhouse·AI 求职 Agent** — 从 0 到 1 构建具备工具调用、长期记忆、目标规划、主动推进四大能力的求职 Agent；Function Calling 封装 10+ 工具，工具调用准确率 94.2%，单岗位准备时间由 3.5 小时降至 40 分钟（TypeScript · Agent · Function Calling）。
-- **合租管家** — 费用分摊、值日排班、囤货登记、室友公约，把最容易吵架的几件事变成清清楚楚的小工具（Vite · React · TypeScript）。已部署：[jenrimark.github.io](https://jenrimark.github.io/) · [GitHub](https://github.com/Jenrimark/jenrimark.github.io)
-- **Little-Wechat** — 独立完成登录、聊天、好友列表等核心模块；WebSocket 实时通信（延迟 <100ms），Redis 缓存在线状态与聊天数据，数据库查询压力降约 60%，Electron 跨平台桌面端（SpringBoot · Vue3 · WebSocket · Redis）。
-- **蝶启新生 · 健康管理** — Vue3 + Go/Gin 全栈，JWT 无状态鉴权；Redis 缓存使查询效率提升约 50%，核心接口由 900ms 降至 400ms；ECharts 多维健康分析，Nginx 反向代理部署（Gin · Vue3 · JWT · GORM）。
-- **灵犀旅行** — AI 旅游平台，独立开发路线推荐与景点展示；百度地图 + ECharts 可视化，Redis 缓存与 MySQL 查询优化，接口响应 300ms 内（SpringBoot · Vue3 · ECharts）。
-- **ChronosForHarmony** — HarmonyOS 应用开发实践，鸿蒙原生能力探索（ArkTS · HarmonyOS）。
+- **Greenhouse·AI 求职作战系统** — 从 0 到 1 构建具备工具调用、长期记忆、目标规划、主动推进四大能力的求职 Agent；Function Calling 封装岗位搜索、简历生成、面试评分等 10+ 工具，工具调用准确率 94.2%、多轮任务完成率 87.6%，单岗位准备时间由 3.5 小时降至 40 分钟（-81%）（TypeScript · Agent · Function Calling）。
+- **星轨 · 端到端自动驾驶框架（国家级大创）** — 设计动量门控动态路由（MGDR），将速度、加速度等运动物理先验注入信息路由；引入动量一致性正则化抑制轨迹振荡，5.8% 参数增量轻量化落地。nuScenes 数据集上时间一致性 +12.2%、复杂路口误差 -17.8%（Python · PyTorch · nuScenes）。
+- **糖知 SugarGuard · AI 智能控糖** — "ViT 图像分类 + RAG 检索 + LLM"三段式引擎：端侧 ML Kit + 云端 ViT 双路径识别（自建 264 类数据集微调），536 片段 RAG 知识库；饮品识别准确率 96.75%，RAG Top-3 命中率 87%/18ms；30 天 4 迭代发布 v1.0.0（Kotlin · SpringBoot · RAG）。
+- **智鉴车件 · 车辆故障检测** — 个人项目，Android + Flutter 多端：蓝牙连接 OBD 采集实时车况，本地+云端双模式故障检测，自动生成 PDF 检测报告；SpringBoot + MySQL 后端，Stripe 支付闭环（Android · Flutter · SpringBoot）。
+- **灵犀 · 校园生活服务平台** — SpringBoot + Vue3 + Python 后端，MySQL + Redis + RabbitMQ；解决校园生活信息分散痛点，服务在校师生，项目获省级二等奖。
+- **合租管家** — 费用分摊、值日排班、囤货登记、室友公约（Vite · React · TypeScript）。已部署：[jenrimark.github.io](https://jenrimark.github.io/) · [GitHub](https://github.com/Jenrimark/jenrimark.github.io)
+- **Little-Wechat** — 独立完成登录、聊天、好友列表；WebSocket 实时通信（<100ms），Redis 缓存在线状态，数据库查询压力降约 60%，Electron 跨平台桌面端（SpringBoot · Vue3 · Redis）。
 - **tabmark-organizer** — Chrome 扩展：浏览器书签同步整理，支持 AI 优化结构与命名（JavaScript · Chrome 扩展）。
 
 # 🏅 Awards {#awards-zh}
-- *2025*, Mathorcup 全球大学生数学建模挑战赛 — **国家一等奖**
-- *2025*, 全国大学生电子商务"创新、创意及创业"挑战赛 — **省级一等奖**
-- *2024*, 3D 识别视觉赛 — **国家三等奖**
+- **MathorCup 数学建模大数据竞赛 — 国家一等奖**（队长）
+- **全国大学生智能汽车竞赛 — 国家二等奖 ×2**
+- **RoboCup 机器人世界杯中国赛 · 先进视觉赛 — 国家二等奖（省级一等奖）**
+- **全国大学生电子商务"创新、创意及创业"挑战赛 — 省级一等奖**
+- **蓝桥杯 — 省级二等奖、全国铜奖**；校程序设计竞赛二等奖
 
 # 🤖 AI Applications {#ai-apps-zh}
 - **常用 AI 工具与模型**：Claude Code、Codex、Cursor、WorkBuddy、豆包工作；Claude、ChatGPT、DeepSeek、MiMo。
-- **AI 协作项目 · Greenhouse 求职作战系统**：以 LLM + Function Calling 架构，封装岗位搜索、简历生成、面试评分等 10+ 工具，使 Agent 具备自主执行能力；引入短期+长期双层记忆解决多轮对话"失忆"；目标规划引擎将求职目标拆解为周度清单并主动推进。本人负责业务场景拆解、Agent 能力架构设计、工具接口与评测指标定义、兜底与幻觉治理规则；AI 负责按接口实现工具与 Agent 逻辑、批量生成内容与回归测试。结果：工具调用准确率 94.2%、多轮任务完成率 87.6%、幻觉率压降 65%。
+- **AI 协作项目 · Greenhouse 求职作战系统**：以 LLM + Function Calling 架构封装岗位搜索、简历生成、面试评分等 10+ 工具，使 Agent 具备自主执行能力；短期+长期双层记忆解决多轮对话"失忆"；目标规划引擎将求职目标拆解为周度清单并主动推进。本人负责业务场景拆解、Agent 能力架构设计、工具接口与评测指标定义、兜底与幻觉治理规则；AI 负责按接口实现工具与 Agent 逻辑、批量生成内容与回归测试。结果：工具调用准确率 94.2%、多轮任务完成率 87.6%、幻觉率压降 65%。
 
 # 📄 Publications & Patents {#papers-zh}
-- 论文/期刊：XXX（暂无，待补充）
-- 发明专利：XXX（暂无，待补充）
+- 国家级大创项目《星轨：融合动态路由与动量机制的端到端自动驾驶框架》在研，已获科研经费支持。
+- 论文/期刊：XXX（暂无）
+- 发明专利：XXX（暂无）
 
 # 🛠️ Skills {#skills-zh}
-- **产品能力**：业务调研、用户访谈、AI 场景拆解、价值判断、PRD/原型、MVP/PoC、指标设计、试点上线与效果复盘；熟悉 Dify、LangChain 基础，可独立出 Skills 流程。
+- **产品能力**：业务调研、用户访谈、AI 场景拆解、价值判断、PRD/原型、MVP/PoC、指标设计、试点上线与效果复盘；熟悉 Dify、LangChain 基础。
 - **AI 方案**：LLM 能力边界、Prompt 工程、RAG 知识库、上下文管理、工作流 Agent、人机协同与质量评估；熟悉 AI 工具接入的权限边界、日志留存、成本监控与人工确认兜底。
-- **技术栈**：TypeScript · Python · Java · C++ · Vue3 · SpringBoot · Go/Gin · Redis · MySQL。
-- **办公协作**：飞书、企业微信、钉钉等。
+- **后端**：Java · SpringBoot · Python · Flask · Node.js · RESTful API · MySQL · Redis · RabbitMQ · WebSocket。
+- **前端与移动端**：Vue · Element-UI · ECharts · uni-app · Android（Kotlin）· Flutter。
+- **工程工具**：Git · Docker · Linux · Nginx · 飞书/企业微信/钉钉。
 - **兴趣爱好**：XXX（待补充）
 
 </div>
 
 <div id="content-en" style="display:none" markdown="1">
 
-I'm **WU Handong** (Jenrimark), a senior undergraduate in Computer Software Engineering at China University of Geosciences (Wuhan, 2023–2027), based in Wuhan, China. My focus is AI product management and full-stack development. I'm rigorous and responsible, with strong engineering awareness — I enjoy decomposing business problems into deliverable solutions, always backed by hit-rate metrics, and love shipping things end-to-end.
+I'm **WU Handong** (Jenrimark), a senior undergraduate in Software Engineering at China University of Geosciences (Wuhan, 2023–2027), CPC member, based in Wuhan, top 10% of my major. My focus is AI product management and full-stack development — two AI product internships (Xiaomi B2B platform, Meihe Yisi C-end multimodal) plus the ability to ship projects end-to-end from frontend to backend, web to mobile. I'm rigorous, engineering-minded, and strong at decomposing business problems into deliverable solutions backed by metrics.
 
 This homepage aggregates my education, internships, projects, competitions and skills. It is statically built with the AcadHomepage template and hosted on GitHub Pages.
 
@@ -78,46 +83,51 @@ This homepage aggregates my education, internships, projects, competitions and s
 - *2026.06*: &nbsp;🎉 Personal portal migrated to GitHub Pages with CI/CD auto-build deployment.
 
 # 📖 Educations {#educations-en}
-- *2023.09 - 2027.06*, **China University of Geosciences (Wuhan)** — B.Eng. in Computer Software Engineering, XXX School, full-time, top 10% of major. GPA: XXX. English: XXX (e.g. CET-6).
+- *2023.09 - 2027.06*, **China University of Geosciences (Wuhan)** — B.Eng. in Software Engineering, full-time, top 10% of major. Served as class monitor, student union president, and party branch secretary; led teams to 10+ national and provincial awards and secured ¥50K research funding. English: XXX.
 
 # 💼 Internships {#internships-en}
-- **XXX (Company) · AI Product Intern**, *2026.XX - 2026.XX* — Built an intelligent operations assistant MVP from 0 to 1 for B2B cross-border e-commerce: unified risk-control and collection standards across 15+ platforms on a Feishu data hub (duplicate rate <0.5%, accuracy >98%); covered 6 regions, cutting inspection and weekly-report labor cost by 90%.
-- **XXX (Company) · AI Product Intern**, *2026.XX - 2026.XX* — Iterated a multimodal AI digital-human interview product for C-end job seekers: structured a question bank of 1000+ campus-interview questions (92% accuracy); optimized 50+ interaction points (latency -30%); reduced model hallucination by 65%, lifting interview retention by 28%.
+- **Xiaomi (Wuhan) · International Business Dept., Systems Team · AI Product Intern (B-end / platform)**, *2026.06 - 2026.09* — Built an intelligent operations assistant MVP from 0 to 1 for B2B cross-border e-commerce: identified high-value AI scenarios across inspection, monitoring and sentiment review; unified risk-control standards across 15+ platforms on a Feishu data hub (duplicate rate <0.5%, accuracy >98%); covered 6 regions, cutting inspection and weekly-report labor cost by 90%.
+- **Meihe Yisi (Wuhan) · Smart Employment PDT · AI Product Intern (C-end / multimodal)**, *2025.11 - 2026.04* — Iterated a multimodal AI digital-human interview product: surveyed 2000+ job-seeking students to rank 3 high-pain scenarios; structured a question bank of 1000+ campus-interview questions (92% generation accuracy); optimized 50+ interaction points (latency -30%); reduced hallucination by 65%, lifting interview retention by 28%.
 
 # 🎓 Campus Activities {#campus-en}
-- **Student Union · Study-style & Office Dept. Lead** — Managed two departments, built internal systems for meetings and archives; organized academic-improvement campaigns, coordinated cross-department projects and led the student team.
-- **Party Branch · Party Affairs Lead** — Ran daily party-branch affairs: organized themed party days, theory study, member recruitment and regularization; handled mentoring, heart-to-heart talks and filing.
-- **Class · Committee Member** — Coordinated class affairs, bridged teachers and students; organized study-style campaigns and class meetings, led the class to multiple collective honors.
-- **Class · Publicity / Psychology Committee** — Produced class publicity materials and announcements; monitored students' mental state and organized themed psychological-care activities.
+- *2024.09 - 2026.06, School of Computer Science · Student Union President / Dept. Head* — Led two departments, built internal systems for meetings and archives; organized academic-improvement campaigns and coordinated cross-department projects.
+- *2024.09 - 2025.09, Student Party Branch · Branch Secretary* — Ran daily party-branch affairs: themed party days, theory study, member recruitment and regularization; mentoring, heart-to-heart talks and filing.
+- *2023.09 - 2024.09, SE Class 2301 · Class Monitor* — Coordinated class affairs, bridged teachers and students, led the class to multiple collective honors.
+- *2023.09 - 2024.09, Class · Publicity / Psychology Committee* — Produced publicity materials, monitored students' mental state and organized themed psychological-care activities.
 
 # 📝 Projects {#projects-en} 
 
-- **Greenhouse·AI Job-seeking Agent** — Built from 0 to 1 an agent with tool calling, long-term memory, goal planning and proactive push; Function Calling wraps 10+ tools, 94.2% tool-call accuracy, cutting per-role prep time from 3.5h to 40min (TypeScript · Agent · Function Calling).
-- **Housemate** — Expense splitting, duty scheduling, shared-stock registration, and roommate rules: turning the easiest-to-quarrel-over things into clear, simple tools (Vite · React · TypeScript). Deployed: [jenrimark.github.io](https://jenrimark.github.io/) · [GitHub](https://github.com/Jenrimark/jenrimark.github.io)
-- **Little-Wechat** — Individually built login, chat, and friends-list core modules; WebSocket real-time communication (<100ms latency), Redis caching for online status and chat data (~60% DB query pressure reduction), Electron cross-platform desktop client (SpringBoot · Vue3 · WebSocket · Redis).
-- **Health Management (蝶启新生)** — Vue3 + Go/Gin full-stack, JWT stateless auth; Redis cache boosts query efficiency ~50%, core API from 900ms to 400ms; ECharts multi-dimensional health analysis, Nginx reverse proxy deployment (Gin · Vue3 · JWT · GORM).
-- **LynxTrip-AI** — AI travel platform, independently developed route recommendation and attraction showcase; Baidu Maps + ECharts visualization, Redis caching and MySQL query optimization, API response within 300ms (SpringBoot · Vue3 · ECharts).
-- **ChronosForHarmony** — HarmonyOS app development practice, exploring native HarmonyOS capabilities (ArkTS · HarmonyOS).
-- **tabmark-organizer** — Chrome extension: browser bookmark sync and organization, with AI-optimized structure and naming (JavaScript · Chrome extension).
+- **Greenhouse·AI Job-seeking Agent** — Built from 0 to 1 an agent with tool calling, long-term memory, goal planning and proactive push; Function Calling wraps 10+ tools (94.2% accuracy, 87.6% multi-turn completion), cutting per-role prep time from 3.5h to 40min (TypeScript · Agent).
+- **Stardust · End-to-end Autonomous Driving Framework (National Innovation Program)** — Designed momentum-gated dynamic routing (MGDR) injecting velocity/acceleration priors into routing; momentum-consistency regularization suppresses trajectory oscillation with only 5.8% extra params. On nuScenes: temporal consistency +12.2%, complex-intersection error -17.8% (Python · PyTorch).
+- **SugarGuard · Teen AI Sugar-Control App** — "ViT + RAG + LLM" three-stage engine: on-device ML Kit + cloud ViT dual-path recognition (264-class self-built dataset), 536-chunk RAG knowledge base; drink recognition 96.75%, RAG Top-3 hit 87%/18ms; shipped v1.0.0 in 30 days (Kotlin · SpringBoot · RAG).
+- **CarCheck · Vehicle Fault Detection** — Personal project, Android + Flutter: Bluetooth OBD live telemetry, local+cloud dual-mode fault detection, auto-generated PDF reports; SpringBoot + MySQL backend with Stripe payment (Android · Flutter · SpringBoot).
+- **LynxCampus · Campus Life Service Platform** — SpringBoot + Vue3 + Python, MySQL + Redis + RabbitMQ; solved fragmented campus-life info for students, project won provincial second prize.
+- **Housemate** — Expense splitting, duty scheduling, shared-stock registration, and roommate rules (Vite · React · TypeScript). Deployed: [jenrimark.github.io](https://jenrimark.github.io/) · [GitHub](https://github.com/Jenrimark/jenrimark.github.io)
+- **Little-Wechat** — Built login, chat and friends-list; WebSocket (<100ms), Redis caching (~60% DB pressure reduction), Electron desktop client (SpringBoot · Vue3 · Redis).
+- **tabmark-organizer** — Chrome extension: bookmark sync and organization with AI-optimized structure and naming (JavaScript).
 
 # 🏅 Awards {#awards-en}
-- *2025*, Mathorcup Interdisciplinary Contest in Modeling — **National First Prize**
-- *2025*, National College Students E-Commerce "Innovation, Creativity & Entrepreneurship" Challenge — **Provincial First Prize**
-- *2024*, 3D Recognition Vision Competition — **National Third Prize**
+- **MathorCup Interdisciplinary Contest in Modeling — National First Prize** (team lead)
+- **National College Student Intelligent Car Competition — National Second Prize ×2**
+- **RoboCup China · Advanced Vision — National Second Prize (Provincial First Prize)**
+- **National E-Commerce "Innovation, Creativity & Entrepreneurship" Challenge — Provincial First Prize**
+- **Lanqiao Cup — Provincial Second Prize, National Bronze**; campus programming contest second prize.
 
 # 🤖 AI Applications {#ai-apps-en}
 - **Daily AI tools & models**: Claude Code, Codex, Cursor, WorkBuddy, Doubao; Claude, ChatGPT, DeepSeek, MiMo.
-- **AI-collaboration project · Greenhouse Job Operations System**: An LLM + Function Calling system wrapping 10+ tools (job search, resume generation, interview scoring) so the agent can act autonomously; short+long-term memory fixes multi-turn amnesia; a goal-planning engine decomposes targets into weekly checklists. I owned scenario decomposition, agent architecture, tool interfaces and evaluation metrics, plus guardrails against hallucination; AI handled implementation, content generation and regression testing. Results: 94.2% tool-call accuracy, 87.6% multi-turn task completion, hallucination -65%.
+- **AI-collaboration project · Greenhouse Job Operations System**: An LLM + Function Calling system wrapping 10+ tools (job search, resume generation, interview scoring) so the agent can act autonomously; short+long-term memory fixes multi-turn amnesia; a goal-planning engine decomposes targets into weekly checklists. I owned scenario decomposition, agent architecture, tool interfaces and evaluation metrics plus guardrails; AI handled implementation, content generation and regression testing. Results: 94.2% tool-call accuracy, 87.6% multi-turn completion, hallucination -65%.
 
 # 📄 Publications & Patents {#papers-en}
-- Papers / journals: XXX (none yet, TBD)
-- Invention patents: XXX (none yet, TBD)
+- National Innovation Program project "Stardust: End-to-end Autonomous Driving Framework with Dynamic Routing and Momentum Mechanism" in progress, research funding secured.
+- Papers / journals: XXX (none yet)
+- Invention patents: XXX (none yet)
 
 # 🛠️ Skills {#skills-en}
 - **Product**: user research, interview, AI scenario decomposition, value judgment, PRD/prototype, MVP/PoC, metrics design, pilot and retrospective; familiar with Dify, LangChain basics.
 - **AI Solutions**: LLM capability boundaries, prompt engineering, RAG knowledge base, context management, agent workflow, human-AI collaboration and quality evaluation; access control, logging, cost monitoring and human-in-the-loop guardrails.
-- **Tech Stack**: TypeScript · Python · Java · C++ · Vue3 · SpringBoot · Go/Gin · Redis · MySQL.
-- **Office**: Feishu, WeCom, DingTalk.
+- **Backend**: Java · SpringBoot · Python · Flask · Node.js · RESTful API · MySQL · Redis · RabbitMQ · WebSocket.
+- **Frontend & Mobile**: Vue · Element-UI · ECharts · uni-app · Android (Kotlin) · Flutter.
+- **Engineering**: Git · Docker · Linux · Nginx · Feishu / WeCom / DingTalk.
 - **Interests**: XXX (TBD)
 
 </div>
