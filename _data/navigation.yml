@@ -22,6 +22,12 @@ main:
     zh_href: "#internships-zh"
     en_href: "#internships-en"
 
+  - title: "Campus"
+    url: "#campus-zh"
+    zh: "校园经历"
+    zh_href: "#campus-zh"
+    en_href: "#campus-en"
+
   - title: "Projects"
     url: "#projects-zh"
     zh: "项目作品"
@@ -33,6 +39,12 @@ main:
     zh: "荣誉奖项"
     zh_href: "#awards-zh"
     en_href: "#awards-en"
+
+  - title: "AI Apps"
+    url: "#ai-apps-zh"
+    zh: "AI 应用"
+    zh_href: "#ai-apps-zh"
+    en_href: "#ai-apps-en"
 
   - title: "Skills"
     url: "#skills-zh"
