@@ -52,10 +52,6 @@ redirect_from:
 - **全国大学生电子商务"创新、创意及创业"挑战赛 — 省级一等奖**
 - **蓝桥杯 — 省级二等奖、全国铜奖**；校程序设计竞赛二等奖
 
-# 🤖 AI 应用 {#ai-apps-zh}
-- **常用 AI 工具与模型**：Claude Code、Codex、Cursor、WorkBuddy、豆包工作；Claude、ChatGPT、DeepSeek、MiMo。
-- **AI 协作项目 · Greenhouse 求职作战系统**：以 LLM + Function Calling 架构封装岗位搜索、简历生成、面试评分等 10+ 工具，使 Agent 具备自主执行能力；短期+长期双层记忆解决多轮对话"失忆"；目标规划引擎将求职目标拆解为周度清单并主动推进。本人负责业务场景拆解、Agent 能力架构设计、工具接口与评测指标定义、兜底与幻觉治理规则；AI 负责按接口实现工具与 Agent 逻辑、批量生成内容与回归测试。结果：工具调用准确率 94.2%、多轮任务完成率 87.6%、幻觉率压降 65%。
-
 # 📄 论文与专利 {#papers-zh}
 - 国家级大创项目《星轨：融合动态路由与动量机制的端到端自动驾驶框架》在研，已获科研经费支持。
 - 论文/期刊：XXX（暂无）
@@ -112,10 +108,6 @@ This homepage aggregates my education, internships, projects, competitions and s
 - **RoboCup China · Advanced Vision — National Second Prize (Provincial First Prize)**
 - **National E-Commerce "Innovation, Creativity & Entrepreneurship" Challenge — Provincial First Prize**
 - **Lanqiao Cup — Provincial Second Prize, National Bronze**; campus programming contest second prize.
-
-# 🤖 AI Applications {#ai-apps-en}
-- **Daily AI tools & models**: Claude Code, Codex, Cursor, WorkBuddy, Doubao; Claude, ChatGPT, DeepSeek, MiMo.
-- **AI-collaboration project · Greenhouse Job Operations System**: An LLM + Function Calling system wrapping 10+ tools (job search, resume generation, interview scoring) so the agent can act autonomously; short+long-term memory fixes multi-turn amnesia; a goal-planning engine decomposes targets into weekly checklists. I owned scenario decomposition, agent architecture, tool interfaces and evaluation metrics plus guardrails; AI handled implementation, content generation and regression testing. Results: 94.2% tool-call accuracy, 87.6% multi-turn completion, hallucination -65%.
 
 # 📄 Publications & Patents {#papers-en}
 - National Innovation Program project "Stardust: End-to-end Autonomous Driving Framework with Dynamic Routing and Momentum Mechanism" in progress, research funding secured.

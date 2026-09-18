@@ -40,12 +40,6 @@ main:
     zh_href: "#awards-zh"
     en_href: "#awards-en"
 
-  - title: "AI Apps"
-    url: "#ai-apps-zh"
-    zh: "AI 应用"
-    zh_href: "#ai-apps-zh"
-    en_href: "#ai-apps-en"
-
   - title: "Skills"
     url: "#skills-zh"
     zh: "技能栈"
